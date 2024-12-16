@@ -75,7 +75,7 @@ Bar chart for the top 10 manufacturers.
 Tree map for top EV models.
 
 ## 8. Visualizations
-Here’s a detailed breakdown of the visualizations used in this project:
+### Here’s a detailed breakdown of the visualizations used in this project:
 
 ### Total Vehicles by Model Year:
 Type: Line/Area Chart.
